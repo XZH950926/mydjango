@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="root@39.105.54.29:22">
+    <serverData>
+      <paths name="ceshi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/projects/xuezenghui" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@39.105.54.29:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/projects/xuezenghui" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
